@@ -17,7 +17,7 @@ body {
     min-height: 297mm;
     margin: 20px auto;
     background: white;
-    display: flex;
+    display:  flex;
     box-shadow: 0 0 20px rgba(0,0,0,0.1);
     position: relative;
 }
